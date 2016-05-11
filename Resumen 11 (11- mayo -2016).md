@@ -11,16 +11,12 @@
 
 ###Resumen 
 
-*Litopenaeus vannamei* es una de las especies de camarón que más se pesca en México, Guatemala y El Salvador, asimismo encabeza la 
+*Litopenaeus vannamei* es la especie de camarón que más se pesca en México, Guatemala y El Salvador, asimismo encabeza la 
 producción por acuicultura en Estados Unidos, México, Panamá, Colombia, Ecuador y Brasil. Esta especie se distribuye desde el norte de
 México hasta el norte de Perú, presentando un desarrollo larval planctónico oceánico, mientras que en estuarios se lleva a cabo el
 desarrollo de postlarva a juvenil y por último vuelve al medio marino para su maduración. Debido al tipo de desarrollo que presenta el
 camarón blanco y por las corrientes oceanográficas que se registran a lo amplio de su distribución geográfica, estos, tienen una alta 
-capacidad de dispersión. Estos tipos de procesos pueden ser responsables de la aparición de barreras del flujo génico lo que contribuye 
-a una diferenciación genética de la especie. Debido a esto la hipótesis de este estudio fue que el camarón blanco podría estar 
-estructurado genéticamente a lo largo de su distribución geográfica, para identificar esto, se evaluaron 4 poblaciones silvestres,
-utilizando 5 loci microsatélites. Las poblaciones evaluadas fueron: Sinaloa, Guerrero, Guatemala y Panamá, utilizando 50 ejemplares por 
-población. Entre los resultados se indica que en las 4 poblaciones había entre 3 y 13.2 alelos por locus, no obstante, este número es
+capacidad de dispersión. Estos tipos de procesos pueden ser responsables de la aparición de barreras del flujo génico lo que contribuye a una diferenciación genética de la especie. Debido a esto la hipótesis de este estudio fue que el camarón blanco podría estar estructurado genéticamente a lo largo de su distribución geográfica, para identificar esto, se evaluaron 4 poblaciones silvestres, utilizando 5 loci microsatélites. Las poblaciones evaluadas fueron: Sinaloa, Guerrero, Guatemala y Panamá, utilizando 50 ejemplares por población. Entre los resultados se indica que en las 4 poblaciones había entre 3 y 13.2 alelos por locus, no obstante, este número es
 bajo en comparación con otros estudios.  Por otra parte en todas las poblaciones se encontraron deficiencias de heterocigotos, excepto 
 en la población de Guatemala. Al evaluar las poblaciones con el microsatélite Pvan1003 se identifica diferenciación genética ente todas 
 las poblaciones, sin embargo, entre la población de Sinaloa y Guerrero no se registraron diferencias entre las frecuencias genotípicas. 
