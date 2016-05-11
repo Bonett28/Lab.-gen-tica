@@ -2,7 +2,7 @@
 
 ##Population genetic structure of Pacific white shrimp (*Litopenaeus vannamei*) from Mexico to Panama: microsatellite DNA variation 
 
-###Estructura genética de poblaciones del camarón blanco del pacífico (*Litopenaeus vanname*) de México a Panama: variación de DNA microsatélite 
+###Estructura genética de poblaciones del camarón blanco del Pacífico (*Litopenaeus vannamei*) de México a Panamá: variación de DNA microsatélite 
 
 ####Valles-Jiménez R., Cruz P. y Pérez-Enríquez R. 
 
