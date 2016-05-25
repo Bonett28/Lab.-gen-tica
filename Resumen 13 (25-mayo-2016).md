@@ -5,7 +5,7 @@
 ####Evaluación de la diversidad genética en cinco generaciones de una línea de reproductores comercial de *Litopenaeus vannamei* camarones
 
 
-#####de Freitas P. y Jnr. P. 2007. 
+#####de Freitas P. y Jnr. P. 2005. 
 
 ####Resumen
 
