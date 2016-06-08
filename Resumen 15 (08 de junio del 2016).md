@@ -1,3 +1,5 @@
+<img src="http://www.cicese.edu.mx/movil/img/hd/logo_cicese.gif" = 500%>
+
 ##Shrimp copyright: Inbreeding strategies effective against ilegal copying of genetically improved shrimp
 
 ###Derechos de autor del camarón: estrategias de consanguinidad efectiva contra la copia ilegal de progenie de camarón mejorada genéticamente
