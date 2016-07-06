@@ -15,7 +15,7 @@ Estos son descritos por el número de nucleótidos en los motivos repetidos, ent
 dinucleótidos, trinucleótidos y tretranucleótidos, asimismo se clasifican como microsatélites no interrumpidos, los cuales presentan los 
 mismos motivos, lestos microsatélites son secuencias en donde entre los motivos de interrupción se encuentran nucleótidos y por último los 
 microsatélites compuestos que están formados por diferentes motivos de repetición. Estos marcadores son altamente informativos debido al
-polimorfismo que presenta, el cual es debido a la tasa de mutación alta que tiene un intervalo de 10-3 a 10-6. El estudio sobre el uso de
+polimorfismo que presenta, el cual es debido a la tasa de mutación alta que tiene un intervalo de 10-3 a 10-6 por generación. El estudio sobre el uso de
 estos marcadores en diferentes especies de camarón, radica en especie que son de importancia económica y entre las especies en las que se 
 ha evaluado estructura poblacional son *Litopenaeus vannamei, Penaeus monodon, L. stilyrostris, L. setiferus, Acanthephyra curtirostris*
 y *Marsuoenaeus japonicus*. En organismos peneidos se ha registrado que estas regiones son abundantes y tiene una secuencia larga. En
