@@ -10,10 +10,10 @@ Los microsatélites  son considerados como una de las herramientas moleculares q
 abundancia en el genoma, altos niveles de diversidad alélica, herencia mendeliana, son codominantes y fáciles de identificar. Este tipo
 de marcadores han sido utilizados para el mapeo genético, comportamiento ecológico, paternidad y parentesco. Los microsatélites son 
 definidos como secuencias cortas de DNA repetidas en tanda, estas secuencias presentan una longitud máxima de 100pb. Estas secuencias se 
-encuentran generalmente en regiones codificantes, sin embargo, se han encontrado algunos microsatélites en regiones no codificantes. 
+encuentran generalmente en regiones no codificantes, sin embargo, se han encontrado algunos microsatélites en regiones codificantes. 
 Estos son descritos por el número de nucleótidos en los motivos repetidos, entre los cuales se encuentran secuencias cortas de 
 dinucleótidos, trinucleótidos y tretranucleótidos, asimismo se clasifican como microsatélites no interrumpidos, los cuales presentan los 
-mismos motivos, los microsatélites son secuencias en donde entre los motivos de interrupción de encuentran nucleótidos y por último los 
+mismos motivos, lestos microsatélites son secuencias en donde entre los motivos de interrupción se encuentran nucleótidos y por último los 
 microsatélites compuestos que están formados por diferentes motivos de repetición. Estos marcadores son altamente informativos debido al
 polimorfismo que presenta, el cual es debido a la tasa de mutación alta que tiene un intervalo de 10-3 a 10-6. El estudio sobre el uso de
 estos marcadores en diferentes especies de camarón, radica en especie que son de importancia económica y entre las especies en las que se 
