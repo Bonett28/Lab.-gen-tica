@@ -10,10 +10,11 @@
 
 ####2007
 
+Resumen realizado por: Brenda Bonett Calzada
 
 ###Resumen
 
-Para el año 2007, Brasil era uno de los países del hemisferio occidental con mayor producción de Litopenaeus vannamei, la producción a 
+Para el año 2007, Brasil era uno de los países del hemisferio occidental con mayor producción de *Litopenaeus vannamei*, la producción a 
 largo plazo de esta especie depende del buen manejo de lotes de reproductores. Sin embargo, la falta de conocimiento de la estructura 
 genética puede perjudicar la actividad acuícola, ya que la endogamia y deriva génica pueden mostrar rápidamente efectos negativos como 
 alta susceptibilidad a enfermedades que reduce la calidad de la postlarva. Al ser esta una especie exótica para este país, la producción 
